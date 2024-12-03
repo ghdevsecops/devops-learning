@@ -1,4 +1,5 @@
-## Software Development Life Cycle (SDLC)
+## Day 2 | Software Development Life Cycle (SDLC)
+### Introduction
 Software Development Life Cycle is a process followed by an organization to DESIGN, DEVELOP and TEST and DELIVER high quality products or services.
 
 ### Standard Software Development Life Cycle phases:

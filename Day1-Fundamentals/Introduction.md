@@ -1,8 +1,8 @@
-Day 1 | Fundamentals of DevOps
+## Day 1 | Fundamentals of DevOps
 
-1) Things to know
+### Things to know
 - What is DevOps?
-A culture or a process that improvies the ability to deliver their applications efficiently.
+A culture or a process that improvies the ability to deliver applications efficiently.
 How to improve ability? Using 'Automation', 'Quality', 'Monitoring' & 'Testing' where CI/CD comes into play.
 
 - Why DevOps?
