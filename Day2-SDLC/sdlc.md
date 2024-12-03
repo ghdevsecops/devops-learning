@@ -4,7 +4,7 @@ Software Development Life Cycle is a process followed by an organization to DESI
 
 ### Standard Software Development Life Cycle phases:
 ```
---> Planning --> Defining --> Designing --> Buidling --> Testing --> Deploy --> (back to Planning)
+--> Planning --> Defining --> Designing --> Building --> Testing --> Deploy --> (back to Planning)
 
 Note: Above phases is a circle loop.
 ```
